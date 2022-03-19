@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.UIDashboard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <color name="colorPrimary">#2BCC6F</color>
+
+        <color name="colorPrimaryDark">#2BCC6F</color>
+
+        <color name="colorAccent">#333333</color>
+
+        <color name="color PrimaryLight">#E9F8F1</color>
+
+        <color name="colorWhite">#FFFFFF</color>
+
+        <color name="colorBackground">#EBEBEB</color>
+
+        <color name="color TrendingStart">#00B09B</color>
+
+        <color name="colorTrending End">#96C93D</color>
+
+    <color name="colorDivider">#D6D6D6</color>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
